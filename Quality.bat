@@ -1,2 +1,2 @@
 
-echo "Quality Gate Check : %date% : %time%"
+echo1 "Quality Gate Check : %date% : %time%"
